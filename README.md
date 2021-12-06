@@ -1,5 +1,5 @@
-# ARTH
-## The - School of technologies
+# ARTH 🤓
+## The - School of Technologies 😇
 ### Bharath
 #### Bharath
 
@@ -10,7 +10,7 @@
 ***Tech-Problems Solutions***
 
 * ARTH
- * Devops
+* ~~Devops~~
  * Docker
  * Linux
  * Data Science
@@ -37,3 +37,10 @@ S.no|Name|Regi.No
 1|Bharath|05f6
 2|Naresh|05e4
 3|Sandy|05e7
+
+- [x]#1 
+- [ ] https://in.linkedin.com/company/rightarth
+- [ ] Add delight to the experience when all tasks are complete 😄
+- [ ] \(Optional) Open it if u want
+> Hello u are lucky! 🙂
+
