@@ -28,7 +28,7 @@
     
     5.Data Science
     
-[ARTH](https://www.google.com/search?channel=fs&client=ubuntu&q=sgoogle)
+[ARTH](https://www.google.com/search?channel=fs&client=ubuntu&q=google)
 
 ![ARTH](https://rightarth.com/images/arthcourses2023.png)
 
